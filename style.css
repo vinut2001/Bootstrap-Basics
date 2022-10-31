@@ -1,0 +1,25 @@
+/* *{
+    margin: 0;
+    padding: 0;
+
+}
+
+ .header{
+            display: flex;
+           justify-content:center;
+    }
+.logo img{
+    width: 200px;
+}
+.nav-items ul{
+    display: flex;
+}
+.nav-items ul li{
+    display: flex;
+    margin: 30px 20px;
+    cursor: pointer;
+}
+.nav-items ul li:hover{
+ background-color: lightblue;
+} */
+
